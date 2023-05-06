@@ -2,6 +2,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-teles-455534275/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/8dT6xNajA4)
+
 ![MathDima GitHub stats](https://github-readme-stats.vercel.app/api?username=MathDiamantino&show_icons=true&theme=transparent)
 
 ## Tecnologias que uso nos meus projetos
